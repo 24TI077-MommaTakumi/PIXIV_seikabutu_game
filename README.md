@@ -11,3 +11,5 @@
 ステージ制の2Dアクションゲームです。（全5ステージ）
 基本操作は左右移動とジャンプのみですが、壁を上ることができます。
 初代スーパーマリオブラザーズをモチーフに、マリオと語感が似ているマリモを主人公にしてこのゲームを作成しました。
+実行ファイル：
+https://drive.google.com/file/d/1ZxTDFEhvHJmoTEjCJVz9RdEsybcaE7CK/view?usp=drive_link
